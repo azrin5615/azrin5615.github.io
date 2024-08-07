@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./another-page.html). [About Me](./another-page.html). [Skills & Project](./another-page.html). [Contact](./another-page.html)
+[Home](./another-page.html) | [About Me](./another-page.html) | [Skills & Project](./another-page.html) | [Contact](./another-page.html)
 
 # Hi there !
 
