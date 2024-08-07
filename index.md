@@ -4,15 +4,12 @@ layout: default
 
 [Link to another page](./another-page.html).
 
-#Header 1
-test
-Hello, I'm Azrin
+# Hi there !
+# Work related info..
 
-## Header 2
-
-> This is a blockquote following a header.
+> Software Engineer
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> My favorite technologies right now are: .Net, React.js, Typescript, Node.js, and PostgreSQL.
 
 ### Header 3
 
